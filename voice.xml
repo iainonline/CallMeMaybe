@@ -1,0 +1,4 @@
+<Response>
+<Say voice="alice">Hello. This is Iain. Please log off now !</Say>
+<Play>classic.m4a</Play>
+</Response>
